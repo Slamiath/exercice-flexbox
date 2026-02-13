@@ -11,3 +11,5 @@ CSS3 :
 -Flexbox pour l'alignement et la mise en page.
 -Transitions & Transforms pour les animations.
 -Media Queries pour la compatibilité mobile.
+
+👉 Voir la démo(https://slamiath.github.io/Galeria-Pro-flexbox/)
